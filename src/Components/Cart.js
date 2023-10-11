@@ -7,12 +7,12 @@ const Cart = () => {
     const navigate = useNavigate();
     const dispatch = useDispatch();
     const value = useSelector((state) => state);
-    console.log(useSelector((state) => state));
-    console.log("Cart");
+    // console.log(useSelector((state) => state));
+    // console.log("Cart");
     let count = 0;
 
     function removeCart(product) {
-        console.log(product);
+        // console.log(product);
         dispatch(remove(product));
     }
 
