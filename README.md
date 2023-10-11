@@ -1,4 +1,4 @@
-## Deployment Link :- [https://chiragmittal36269.github.io/f4-shopping/]
+## Deployment Link :- https://chiragmittal36269.github.io/f4-shopping/
 
 # Getting Started with Create React App
 
