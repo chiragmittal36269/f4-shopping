@@ -37,6 +37,12 @@
     line-height: normal;
 }
 
+.shoppingLink,
+.homeLink,
+.cartLink {
+    cursor: pointer;
+}
+
 .container {
     display: flex;
     flex-direction: column;
