@@ -25,6 +25,10 @@
     line-height: normal;
 }
 
+.navbar .left h3 {
+    cursor: pointer;
+}
+
 .navbar .right {
     display: flex;
     align-items: center;
@@ -35,6 +39,10 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.navbar .right h4 {
+    cursor: pointer;
 }
 
 .container {
