@@ -8,13 +8,13 @@ const Navbar = () => {
         <div>
             <div className="navbar">
                 <div className="left">
-                    <h3 onClick={() => navigate("/")} className="shoppingLink">
+                    <h3 onClick={() => navigate("/f4-shopping")} className="shoppingLink">
                         Shopping Cart
                     </h3>
                 </div>
 
                 <div className="right">
-                    <h4 onClick={() => navigate("/")} className="homeLink">
+                    <h4 onClick={() => navigate("/f4-shopping")} className="homeLink">
                         Home Page
                     </h4>
                     <h4 onClick={() => navigate("/cart")} className="cartLink">
